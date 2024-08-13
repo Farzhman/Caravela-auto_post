@@ -1,2 +1,2 @@
 # Caravela
-Caravela - Console web browser written in Python.
+Caravel - a utility for automatically uploading videos to social networks, written in python
